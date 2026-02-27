@@ -70,6 +70,18 @@ Full dataset details available in `dataset_description.md`.
 
 ---
 
+## Interactive Dashboard
+
+View the full Tableau dashboard here:
+
+🔗 [Bellabeat Smart Device Engagement Dashboard (Tableau Public)](https://public.tableau.com/app/profile/stephanie.korad/viz/GoogleDataAnalyticsCaseStudyBellabeat_17585757425840/SmartDeviceEngagementActivityTrends)
+
+### Dashboard Preview
+
+![Bellabeat Dashboard](visuals/dashboard_preview.png)
+
+---
+
 ## Future Improvements
 
 - Implement user clustering for deeper segmentation
