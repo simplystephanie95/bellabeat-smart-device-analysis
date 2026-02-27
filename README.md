@@ -70,6 +70,14 @@ Full dataset details available in `dataset_description.md`.
 
 ---
 
+## Future Improvements
+
+- Implement user clustering for deeper segmentation
+- Perform correlation analysis between sleep and activity
+- Develop predictive models for engagement forecasting
+
+---
+
 ## Files
 
 - `google-analytics-capstone-case-study-bellabeat.ipynb` — Full R analysis notebook
